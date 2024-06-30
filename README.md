@@ -1,15 +1,8 @@
-<<<<<<< HEAD
 # ScrapTF Raffle Bot
-
-> [!IMPORTANT]
-> This tool was created for educational purposes and is not intended for personal use which may harm the health of the Scrap.TF raffle system. Use may result in a permanent ban of your Steam account from the Scrap.TF service.(I haven't used the software myself to gain items in over a year, raffles won during development were not claimed.)
-=======
-# Scrap.TF Raffle Bot
 
 [!IMPORTANT]
 This tool was created for educational purposes and is not intended for personal use which may harm the health of the Scrap.TF raffle system. Use may result in a permanent ban of your Steam account from the Scrap.TF service.(I haven't used the software myself to gain items in over a year, raffles won during development were not claimed.)
->>>>>>> e1293bd (End of support)
-
+(End of support)
 
  ## Installation & Usage
  This project requires Python 3, Selenium's Python library and BeautifulSoup's Python library. It can be installed using pip `pip3 install selenium` , `pip3 install beautifulsoup4`.
